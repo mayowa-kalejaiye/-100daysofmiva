@@ -1,7 +1,8 @@
 # -100daysofmiva
 A repository documenting my progress through the #100DaysOfMiva coding challenge. Each day, I’ll work on different projects and concepts to improve my software engineering skills, covering topics like algorithms, web development, and more. Follow along as I grow and learn!
 
-![#100daysofMiva Banner](100daysofmiva bc.jpg)
+![#100DaysOfMiva Banner](./100daysofmiva%20bc.jpg)
+
 # 100 Days of Miva 🚀
 
 Welcome to my #100DaysOfMiva repository! This journey is all about learning, building, and exploring various aspects of software development. This repository will contain multiple projects organized into different folders as I progress through the 100 days.
